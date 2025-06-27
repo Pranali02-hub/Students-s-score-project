@@ -23,11 +23,14 @@
   - Deploy an interactive dashboard using Streamlit or Dash.
 
 ## 📌 Questions for Analysis
-   1. What is the average score in each subject (Math, Reading, Writing)?
-   2.Which subject do students generally perform best in?
-   3.Are there performance differences based on gender?
-   4.Is there a correlation between reading and writing scores?
-   5.What percentage of students scored above 80 in all subjects?
+   ## 📌 Questions for Analysis
+
+1. What is the average score in each subject (Math, Reading, Writing)?
+2. Which subject do students generally perform best in?
+3. Are there performance differences based on gender?
+4. Is there a correlation between reading and writing scores?
+5. What percentage of students scored above 80 in all subjects?
+
 
 ## 📓 Jupyter Notebook
  <a href="https://github.com/Pranali02-hub/Students-s-score-project/blob/main/Students_score_analysis.ipynb">View visualization <a/>
