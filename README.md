@@ -30,4 +30,4 @@
    5.What percentage of students scored above 80 in all subjects?
 
 ## 📓 Jupyter Notebook
- <a href="(https://github.com/Pranali02-hub/Students-s-score-project/blob/main/Students_score_analysis.ipynb)>View visualization <a/>
+ <a href="https://github.com/Pranali02-hub/Students-s-score-project/blob/main/Students_score_analysis.ipynb">View visualization <a/>
