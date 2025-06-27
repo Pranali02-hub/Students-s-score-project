@@ -22,7 +22,7 @@
   - Include demographic analysis (gender, ethnicity, parental education).
   - Deploy an interactive dashboard using Streamlit or Dash.
 
-## 📌 Questions for Analysis
+
    ## 📌 Questions for Analysis
 
 1. What is the average score in each subject (Math, Reading, Writing)?
