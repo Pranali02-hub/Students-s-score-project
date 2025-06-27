@@ -33,3 +33,7 @@
  <a href="https://github.com/Pranali02-hub/Students-s-score-project/blob/main/Students_score_analysis.ipynb">View visualization <a/>
 
 ## 📷 Sample Visualization
+  ![Image](https://github.com/user-attachments/assets/bbcdcf35-83eb-4d5e-83e7-721fba5fc324)
+  ![Image](https://github.com/user-attachments/assets/2b6bd61c-bfee-49f7-b4b8-48f7fed3f450)
+  ![Image](https://github.com/user-attachments/assets/3796c251-45e3-4d49-8d81-5537cc203132)
+
