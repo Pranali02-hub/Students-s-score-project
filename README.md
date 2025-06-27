@@ -30,4 +30,4 @@
    5.What percentage of students scored above 80 in all subjects?
 
 ## 📓 Jupyter Notebook
-  http://localhost:8889/notebooks/project%201.ipynb
+ <a href=" http://localhost:8889/notebooks/project%201.ipynb">View visualization <a/>
