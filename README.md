@@ -5,17 +5,17 @@
  ## This project focuses on analyzing students' academic performance using Python. It aims to extract meaningful insights from a dataset containing students' scores. The analysis includes data cleaning, visualization, and interpretation of student performance patterns using libraries such as Pandas, Seaborn, and Matplotlib.
 
 # 📊 Objectives
- ## - Analyze score patterns across different subjects.
-- Visualize score distributions using graphs.
-- Identify trends or performance gaps among students.
-- Demonstrate basic data analysis skills using Python.
+ ##  - Analyze score patterns across different subjects.
+   - Visualize score distributions using graphs.
+   - Identify trends or performance gaps among students.
+   - Demonstrate basic data analysis skills using Python.
 
 # 🛠️ Tools and Technologies Used
  ## - Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Seaborn
+   - Jupyter Notebook
+   - Pandas
+   - Matplotlib
+   - Seaborn
 
 # 💡 Future Improvements
  ## - Add predictive modeling for score prediction.
